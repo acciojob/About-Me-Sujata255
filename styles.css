@@ -45,6 +45,14 @@ background-color: #ddd;
 border-radius: 5px;
 }
 
+.projects {
+    margin-top: 20px;
+}
+
+.project-item {
+    margin-bottom: 10px;
+}
+
 .progress-value {
 height: 100%;
 background-color: #4CAF50;
